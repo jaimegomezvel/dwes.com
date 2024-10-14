@@ -14,7 +14,7 @@ label {
     color: darkblue;
 }
 
-input {
+input, select, option {
     padding: 0.2em;
     font: inherit;
 }
